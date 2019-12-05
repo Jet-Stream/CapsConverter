@@ -1,4 +1,4 @@
-#Tiny program that converts user input's string to all caps, all lowercase, or title case
+#Tiny Python program that converts user's input string to all caps, all lowercase, or title case
 while True:
     text = input('Enter a sentence, or type Stop:')
     if text == 'Stop':
